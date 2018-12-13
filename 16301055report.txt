@@ -1,0 +1,8 @@
+成员学号：16301055
+姓名：于佳莉
+
+技术：1.百度地图ADK
+      2.视频流
+      3.电话授权
+
+录屏链接：https://pan.baidu.com/s/18-pfvUs13OSDrMnG87OOwA
